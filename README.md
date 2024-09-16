@@ -1,0 +1,3 @@
+# JP Morgan Quantitative Finance Analysis
+
+Utilize Python and various data science libraries to explore advanced techniques in time series analysis, volatility estimation, risk assessment, and portfolio management. The dataset consists of historical daily stock prices for JP Morgan, spanning from January 1, 2000, to December 31, 2020. It includes data such as opening and closing prices, daily highs and lows, trading volumes, and more, collected to facilitate quantitative financial analysis and risk evaluation.
